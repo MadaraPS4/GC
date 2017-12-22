@@ -1,0 +1,5 @@
+c:\users\зейтынб\documents\visual studio 2017\Projects\GC Collector\GC Collector\bin\Debug\GC Collector.exe.config
+c:\users\зейтынб\documents\visual studio 2017\Projects\GC Collector\GC Collector\bin\Debug\GC Collector.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\GC Collector\GC Collector\bin\Debug\GC Collector.pdb
+c:\users\зейтынб\documents\visual studio 2017\Projects\GC Collector\GC Collector\obj\Debug\GC Collector.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\GC Collector\GC Collector\obj\Debug\GC Collector.pdb
